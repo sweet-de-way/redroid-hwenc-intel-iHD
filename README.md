@@ -1,5 +1,10 @@
 # redroid-hwenc-intel-iHD
 
+## 代码声明
+> **AI 生成声明**：本项目代码完全由 **DeepSeek V4.1 Flash** 生成。
+
+---
+
 - 编译 `gralloc_mega_test.c` 的示例命令
 ```bash
 /src/toolchain/linux-x86/clang-r487747c/bin/clang \
